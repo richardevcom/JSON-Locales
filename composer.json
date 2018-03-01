@@ -2,7 +2,7 @@
     "name": "richardevcom/json-locales",
     "type": "library",
     "description": "This JSON file conains list of almost all the languages, their language codes and encodings. ",
-    "keywords": ["json", "locale", "locales, "languages", "codes", "encoding", "encodings", "l10n", "localization"],
+    "keywords": ["json", "locale", "locales", "languages", "codes", "encoding", "encodings", "l10n", "localization"],
     "homepage": "https://richardevcom.github.io/JSON-Locales/",
     "license": "GPL-3.0-or-later",
     "authors": [
